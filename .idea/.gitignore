@@ -1,0 +1,6 @@
+.name
+gradle.xml
+*.lock
+*.xml
+*.properties
+
